@@ -131,3 +131,6 @@ dmypy.json
 data/*
 ablation_experiment/
 experiment/
+
+# IG environment / IDE
+*.swp
