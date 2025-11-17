@@ -61,13 +61,14 @@ Steps to run:
 | GPU       | 1 CUDA compatible GPU    | 1+ RTX 2080ti or faster                | GPU should have at least 11GB VRAM               |
 
 # Package versions used
+Python version is `3.9.20` to ensure consistency. All dependencies from the following packages should be preinstalled using the `requirements.txt` file and `pip`.
 
 | Package        | Version |
 |----------------|:-------:|
 | `torch`        | 1.9.0   |
-| `numpy`        | 1.20.1  |
-| `pandas`       | 1.1.1   |
-| `tqdm`         | 4.61.2  |
-| `matplotlib`   | 3.3.1   |
-| `pyyaml`       | 5.3.1   |
+| `numpy`        | 1.26.4  |
+| `pandas`       | 1.2.0   |
+| `tqdm`         | 4.67.1  |
+| `matplotlib`   | 3.9.4   |
+| `pyyaml`       | 6.0.3   |
 | `scikit-learn` | 0.24.2  |
