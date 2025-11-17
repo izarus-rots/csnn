@@ -134,3 +134,4 @@ experiment/
 
 # IG environment / IDE
 *.swp
+.DS_Store
